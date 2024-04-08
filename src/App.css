@@ -1,0 +1,17 @@
+.dot{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  /* background-color: brown; */
+}
+
+.card{
+  padding: 20px;
+  border: 1px solid black;
+  width: 400px;
+}
+.d-flex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
